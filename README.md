@@ -1,4 +1,1 @@
-doouu.github.com
-================
-
-doouu.github.com
+This is my blog
